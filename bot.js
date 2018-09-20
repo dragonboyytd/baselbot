@@ -364,4 +364,4 @@ if (message.content.startsWith(adminprefix + 'sett')) {
 
 
 
-client.login("NDc1NzQxOTEzNDk2OTQ0NjYw.Dkjdsg.9ywcQxgzcISgeIXGPN-Mtn2uhIM");
+client.login(process.env.BOT_TOKEN);
